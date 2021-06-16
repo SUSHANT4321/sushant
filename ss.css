@@ -1,0 +1,43 @@
+.sushant {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    max-width: auto;
+    text-align: center;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-shadow: 2px 2px 5px
+}
+
+html {
+
+    background: #b3b3b3
+}
+
+body {
+    background: #ffffff;
+    margin: 0 auto;
+    max-width: 900;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 60px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    font-size: 32px
+}
+
+a {
+    color: blue;
+
+    text-decoration: none;
+}
+
+.sus {
+    display: inline-block
+}
+
+p{
+    font-weight: 500;
+    
+}
